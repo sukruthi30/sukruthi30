@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Heyaa 👋, I'm Sukruthi Rao</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
