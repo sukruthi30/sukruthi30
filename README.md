@@ -1,4 +1,4 @@
-![logo](https://github.com/sukruthi30/sukruthi30/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/sukruthi30/sukruthi30/blob/main/github-header-image%20(2).png)
 
 <h1 align="center">Heyaa 👋, I'm Sukruthi Rao</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
