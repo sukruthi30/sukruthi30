@@ -1,4 +1,4 @@
-![logo](https://github.com/sukruthi30/sukruthi30/blob/main/github-header-image%20(2).png)
+
 
 # 💫 About Me:
 🔭 I’m currently working on Hyperledger<br>👯 I’m looking to collaborate on Frontend<br>🌱 I’m currently learning Solidity<br>💬 Ask me about HTML,CSS, Blockchain, Solidity<br>
